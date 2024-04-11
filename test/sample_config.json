@@ -1,0 +1,10 @@
+{
+  "SERVER_TOKEN": "token-123",
+  "TEMPLATE_ID" : "template-45",
+	"STREAM" : "invitations",
+	"SENDER" : "Joe Baz",
+	"WEBLINK" : "https://domain.page.link/SMj5",
+	"SUBJECT" : "An invitation",
+	"CONTACT" : "contact@sandino.ca",
+	"CODE" : "ABC123"
+}

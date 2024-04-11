@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+csv/
+batches/
+configs/
+csv/
+issues/
+sent_batches/
+sent_invites/
+batches.log
+venv
