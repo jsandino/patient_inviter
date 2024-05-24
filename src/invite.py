@@ -1,7 +1,7 @@
 import requests
 
 """
-Script to send doclisten invitations to patients.
+Script to send an email invitation to a single patient.
 """
 import json
 import sys

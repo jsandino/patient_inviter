@@ -1,5 +1,5 @@
 """
-Script to send doclisten invitations to patients.
+Script to send email invitations to multiple patients using a batch stream.
 """
 import requests
 import pprint
