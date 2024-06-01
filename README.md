@@ -2,7 +2,7 @@
 Sends email account registration invitations to patients.
 
 ## Description
-This program sends email invitations (single or batched) to patients: the emails contain a deep link to allow downloading a mobile app from the email.  Email delivery is don by integrating with a third-party email service provider API (Postmark).
+This program sends email invitations (single or batched) to patients: the emails contain a deep link to allow downloading a mobile app from the email.  Email delivery is done by integrating with a third-party email service provider API (Postmark).
 
 ## Usage
 There are two different usage modes, each with a corresponding shell wrapping script.
